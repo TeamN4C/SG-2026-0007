@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SG-2026-0007-poc/SG-2026-0007-poc.vcxproj" />
+</Solution>
